@@ -1,0 +1,15 @@
+C:\Repository\Lection8\Ex002\bin\Debug\net6.0\Ex002.exe
+C:\Repository\Lection8\Ex002\bin\Debug\net6.0\Ex002.deps.json
+C:\Repository\Lection8\Ex002\bin\Debug\net6.0\Ex002.runtimeconfig.json
+C:\Repository\Lection8\Ex002\bin\Debug\net6.0\Ex002.dll
+C:\Repository\Lection8\Ex002\bin\Debug\net6.0\Ex002.pdb
+C:\Repository\Lection8\Ex002\obj\Debug\net6.0\Ex002.csproj.AssemblyReference.cache
+C:\Repository\Lection8\Ex002\obj\Debug\net6.0\Ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\Lection8\Ex002\obj\Debug\net6.0\Ex002.AssemblyInfoInputs.cache
+C:\Repository\Lection8\Ex002\obj\Debug\net6.0\Ex002.AssemblyInfo.cs
+C:\Repository\Lection8\Ex002\obj\Debug\net6.0\Ex002.csproj.CoreCompileInputs.cache
+C:\Repository\Lection8\Ex002\obj\Debug\net6.0\Ex002.dll
+C:\Repository\Lection8\Ex002\obj\Debug\net6.0\refint\Ex002.dll
+C:\Repository\Lection8\Ex002\obj\Debug\net6.0\Ex002.pdb
+C:\Repository\Lection8\Ex002\obj\Debug\net6.0\Ex002.genruntimeconfig.cache
+C:\Repository\Lection8\Ex002\obj\Debug\net6.0\ref\Ex002.dll
